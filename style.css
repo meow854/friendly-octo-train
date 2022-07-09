@@ -1,0 +1,59 @@
+
+h1 {
+    color: black;
+    font-weight: 700;
+    background-color: rgb(76, 193, 251);
+    width: 550px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+}
+
+#main {
+    background-color: rgb(95, 145, 163);
+    width: 1000px;
+    border-radius: 20px;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 50px;
+    height: 500px;
+    margin-left: 220px;
+}
+
+#gl {
+    margin-top: -40px;
+}
+
+#ml {
+    margin-top: -42px;
+    margin-left: 320px;
+}
+
+img {
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+#i {
+    margin-left: 110px;
+}
+
+span {
+    margin-left: 700px;
+}
+
+#d {
+    margin-left: 370px;
+    margin-top: -407px;
+}
+
+#h {
+    margin-left: -60px;
+}
+
+h3 {
+    margin-left: 580px;
+}
